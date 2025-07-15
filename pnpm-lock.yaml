@@ -8,7 +8,7 @@ specifiers:
   astro: ^1.6.11
   astro-icon: ^0.8.0
   micromodal: ^0.4.10
-  prettier: 2.8.4
+  prettier: 2.8.8
   prettier-plugin-astro: ^0.8.0
   prettier-plugin-tailwindcss: ^0.6.0
   rimraf: ^4.0.0
@@ -30,9 +30,9 @@ devDependencies:
   '@types/micromodal': 0.3.3
   astro: 1.9.2
   astro-icon: 0.8.0
-  prettier: 2.8.4
+  prettier: 2.8.8
   prettier-plugin-astro: 0.8.0
-  prettier-plugin-tailwindcss: 0.6.0_cfgkwvtfb3vmyej4cugnuognhu
+  prettier-plugin-tailwindcss: 0.6.0_caujmxglla7rxh2tc2ymxis6ay
   rimraf: 4.1.2
   tailwindcss-fluid-type: 2.0.3_tailwindcss@3.2.6
 
@@ -81,7 +81,7 @@ packages:
     dependencies:
       '@vscode/emmet-helper': 2.8.6
       events: 3.3.0
-      prettier: 2.8.4
+      prettier: 2.8.8
       prettier-plugin-astro: 0.7.2
       source-map: 0.7.4
       vscode-css-languageservice: 6.2.3
@@ -2700,7 +2700,7 @@ packages:
     engines: {node: ^14.15.0 || >=16.0.0, pnpm: '>=7.14.0'}
     dependencies:
       '@astrojs/compiler': 0.31.4
-      prettier: 2.8.4
+      prettier: 2.8.8
       sass-formatter: 0.7.6
       synckit: 0.8.5
 
@@ -2709,12 +2709,12 @@ packages:
     engines: {node: ^14.15.0 || >=16.0.0, pnpm: '>=7.14.0'}
     dependencies:
       '@astrojs/compiler': 1.1.0
-      prettier: 2.8.4
+      prettier: 2.8.8
       sass-formatter: 0.7.6
       synckit: 0.8.5
     dev: true
 
-  /prettier-plugin-tailwindcss/0.6.0_cfgkwvtfb3vmyej4cugnuognhu:
+  /prettier-plugin-tailwindcss/0.6.0_caujmxglla7rxh2tc2ymxis6ay:
     resolution: {integrity: sha512-l5F3iG54XbOq/2DOPP/YA+c6VE3/qXrcBccntq2v7PSxtEc+J6SwsuTyDHxoFK1+jAlcU/hECBfzn6MON6ENBg==}
     engines: {node: '>=14.21.3'}
     peerDependencies:
@@ -2766,12 +2766,12 @@ packages:
       prettier-plugin-svelte:
         optional: true
     dependencies:
-      prettier: 2.8.4
+      prettier: 2.8.8
       prettier-plugin-astro: 0.8.0
     dev: true
 
-  /prettier/2.8.4:
-    resolution: {integrity: sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==}
+  /prettier/2.8.8:
+    resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
     engines: {node: '>=10.13.0'}
     hasBin: true
 
