@@ -4,10 +4,10 @@ specifiers:
   '@astrojs/image': ^0.14.0
   '@astrojs/tailwind': ^3.0.0
   '@fontsource/inter': ^4.5.14
-  '@types/micromodal': ^0.3.3
+  '@types/micromodal': ^0.7.0
   astro: ^1.6.11
   astro-icon: ^0.8.0
-  micromodal: ^0.4.10
+  micromodal: ^0.7.0
   prettier: 2.8.4
   prettier-plugin-astro: ^0.8.0
   prettier-plugin-tailwindcss: ^0.6.0
@@ -20,14 +20,14 @@ specifiers:
 dependencies:
   '@astrojs/image': 0.14.1_astro@1.9.2+sharp@0.31.3
   '@fontsource/inter': 4.5.15
-  micromodal: 0.4.10
+  micromodal: 0.7.0
   sharp: 0.31.3
   tailwindcss: 3.2.6
   tiny-invariant: 1.3.1
 
 devDependencies:
   '@astrojs/tailwind': 3.0.1_jrtgopjuv4kfhb7kuocswl46li
-  '@types/micromodal': 0.3.3
+  '@types/micromodal': 0.7.0
   astro: 1.9.2
   astro-icon: 0.8.0
   prettier: 2.8.4
@@ -566,8 +566,8 @@ packages:
     dependencies:
       '@types/unist': 2.0.6
 
-  /@types/micromodal/0.3.3:
-    resolution: {integrity: sha512-XQg6nqg15A6ZKkMkDdqLkC5LTxLb7CZU6BX8uHBj4AVU7+k/W6kfriW5HCsarrjFpONNOMAmhA1ReUsMm7297g==}
+  /@types/micromodal/0.7.0:
+    resolution: {integrity: sha512-5Tpi2pWlx0OPmMKwvnjvqLmoyLxI0HJ4AZh/nmCgD0xUqRrnhBEQdE2tC80pp+1RXbstcrJAtRuT3n5sL7V1Qg==}
     dev: true
 
   /@types/ms/0.7.31:
@@ -2345,8 +2345,8 @@ packages:
       braces: 3.0.2
       picomatch: 2.3.1
 
-  /micromodal/0.4.10:
-    resolution: {integrity: sha512-BUrEnzMPFBwK8nOE4xUDYHLrlGlLULQVjpja99tpJQPSUEWgw3kTLp1n1qv0HmKU29AiHE7Y7sMLiRziDK4ghQ==}
+  /micromodal/0.7.0:
+    resolution: {integrity: sha512-DOU0eE7tByNFTrU9KgPIywt2imA2+ttMMoE89BU/w/r92tNemGFwCg5QTZLLv04N53ZGTizg10zeT7dUv8V/ug==}
     engines: {node: '>=10'}
     dev: false
 
